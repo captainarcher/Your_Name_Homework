@@ -21,7 +21,7 @@ resource "google_compute_address" "terraform_int" {
   address_type = "INTERNAL"
 }
 resource "google_compute_instance" "vm_instance" {
-  project = "mis484-6-287502"
+  project = "REPLACE-WITH-YOUR-PROJECT-ID-EXAMPLE-jaundiced-prez-123456"
 	name	= "terraform-dev-instance"
 	machine_type = "f1-micro"
 
