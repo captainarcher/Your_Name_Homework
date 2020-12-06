@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "REPLACE-WITH-YOUR-PROJECT-ID-EXAMPLE-jaundiced-prez-123456",
+  "private_key_id": "sdfsljk23434sfdadsf324343sfdfsd3434d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n23432rwedfadjsfsdjfsfjagaasfdssfdsfdasfkajf23423423sdfdafdsf23432423423423sdfasdfdG9w324rjwedfidjflajfsdafldsjfdksljfldskjQEFAASCBKYwggSiAgEAAoIBAQCsNTUEQB0mXilG\nK7rft+d9AUG89o1jk0sHqL01T7Wweeaebs2ZRssb7VmRSCpzjusvsz7rLxPdIXdL\ns7YvtOI59VejBwlTU4j1c1Lt5ITQ/L87orLyY6/lfpsqELjK9uUaIM4KHsFo5ND0\nTTa/tMtX0Bp2NJshNI+mM7O4hg4he82Q0C2R4rG9qRRzOe9HPIapCt6yENsBhtuJ\nc88EZztuaFJWzU2dJUIBpG6eczNxhldnkCc7ln/f1qYkbV05ReOPFbT+PyJOgglK\nhAqW1Dc7WdRpNSphJjU4Htn1X0sX1pqy7fTI0RpdDp1O5twe0gS9kX+kI8u140QK\nI88peiq/AgMBAAECggEAC/1sYo5gOTKnJwaWbUstp+t1e0WjVIKF39Ok0Nhq6w2h\nu/g1Am4GaDxfVxkyM3eI8npFcDSH6oaQ+slZbvrmIWjuoCA2SwHu8EAGTx/xC2f9\nnJZYZT4BmjX1cblWVHNaQjZ0ggngJ4B+9/OEU1awLb4EiaRiBK7XLZg99CQJSdVq\nnLZRWCdquqNfr10R6SXSlyejM1qMmnQ7/EU4vLRdr+HoP84VXgaZlHYeRNJpVhlK\nBfyS4IX/qFqH+InDkQjayQues6504ufeEvAZUH/f6zxj5FLfTpJBpM/XVdC0FTeF\nC/kA9q1xkSFWINVcDAdRXEvHErBOv8dusGLDHbu8yQKBgQDW4OHzdzA1vtXWskFl\nzxa/KossEBwK3xgdhxU1+VWb6fR2lWUY2BUFnJbkG5AAhnhdF+vsO4ZCpMtBvEk8\n8AuHyASU+Bo0aFIq/gSTIx3IK7PLBeTqXNo9a8K21M+6F1xQ+xFb8rNZOUCTvKlt\n7W9loExiW5LFOQQH/JFmheuUHQKBgQDNKdjnjLZ5aVwdkK31yvihdQ+G7bXBUrDO\nsyPNDiYUMthGtG2x0XbQrDWAeNzoDC04dU89zMq3hDFbJVY4elnXtzkVvXs9mhGE\nfPYq1lT1bDOw0RCmRLpeEi519IR2sZ5ZAb9CLKk2wa9yTo1FuHY8ZNmn1TJMVOqK\njUtMKqmLiwKBgGaJLykHogizhMULkKttU5RrT7f6A/eoF5DXieaUkSZyUIZZqcFe\nM0HXRCWbhW7KvBroNFso2Ftq2dcHawdaIJZteso/TfneIf+D8Vjo8+g1+niR2nd/\nUWDn0CWAjZNmXFYESHdQ7AZSjJ8y8sKS/4pGIMz6l6HnICZTfmqm0xB9AoGAYl9u\nYZhW5mBeis6UmwZ3sPMwPsI8JDZCENpUkD34hDbc/QoGjvygu+3WuYM6aQltpWSa\nWkeX6+a2w71jWjFQYt63wHTaYu889wnz/xZGJmd7YYzdLtxFgFW3cVeNLFx+UK9F\nxbUkbdzxAx4nHwcTqmGw+4h+VZth2o1lTWAna4ECgYATAKlazim/agfGzLRu72Br\nLVuw7wYSyoA7c+eWt2MjOdDKdb69bAmhmYawC4blxAwtfQ6pR1feQjTIOU47qj6A\nvn9QWDErjkWimNHHnCbWcmLcb9CR0+IleqOG+R20sUC+8r4im6rUlX4Z3v6ypxt1\n0h9BWee0JIIw2ZY4S3Xsvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yourserviceaccount@REPLACE-WITH-YOUR-PROJECT-ID-EXAMPLE-jaundiced-prez-123456.iam.gserviceaccount.com",
+  "client_id": "340982938423843482948343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tf-tutorial-test%40REPLACE-WITH-YOUR-PROJECT-ID-EXAMPLE-jaundiced-prez-123456.iam.gserviceaccount.com"
+}
